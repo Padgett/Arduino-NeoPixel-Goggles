@@ -1,4 +1,4 @@
 Arduino NeoPixel Goggles
 =======
 
-Flashy Goggles using 2 NeoPixels and an ATTiny85 from Adafruit
+Flashy Goggles using 2 NeoPixel Rings and an ATTiny85 from Adafruit
